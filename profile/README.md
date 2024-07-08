@@ -10,7 +10,7 @@ The project includes two mini-apps: PROFIT CHANNEL for users and PROFIT STUDIO f
 
 The pilot project, PROFIT CHANNEL, showcases the platform’s potential through a simple game mechanic where users can earn tokens and buy boosters like auto-clickers that work offline. This pilot project demonstrates the platform’s capabilities in creating active communities and effective monetization. PROFIT turns ordinary content interaction into an exciting gaming experience, opening new horizons for Telegram authors and users.
 
-[Video](https://www.youtube.com/watch?v=MTN3nTIFg0c)
+[![Demo Video](youtube_cover.png)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=MTN3nTIFg0c))
 
 Studio: [https://t.me/ProfitChannelBot/ProfitChannel](https://t.me/ProfitChannelBot/ProfitStudio)
 
